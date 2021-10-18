@@ -1,10 +1,10 @@
 * Fall 2021 - Lab 07
 
-* Last name:
+* Last name: Lin
 
-* First name:
+* First name: Zhipeng
 
-* GitHub username:
+* GitHub username: RBT0101
 
 * Notes:
 
